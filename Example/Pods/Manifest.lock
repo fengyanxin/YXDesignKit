@@ -1,0 +1,16 @@
+PODS:
+  - YXDesignKit (0.1.0)
+
+DEPENDENCIES:
+  - YXDesignKit (from `../`)
+
+EXTERNAL SOURCES:
+  YXDesignKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXDesignKit: 30976aecd54d92f59586455f40edb5d525a322ba
+
+PODFILE CHECKSUM: bb9fdae8457b32d7db541ab198d051bb9107dedc
+
+COCOAPODS: 1.11.3

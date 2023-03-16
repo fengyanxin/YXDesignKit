@@ -1,0 +1,6 @@
+framework module YXDesignKit {
+  umbrella header "YXDesignKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
